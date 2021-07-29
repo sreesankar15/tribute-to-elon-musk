@@ -1,0 +1,49 @@
+#image {
+
+    width:100%;
+    max-width:20vw;
+    display: block;
+    margin: 0 auto;
+    border-radius:20px;
+    }
+
+#title {
+    text-align:center;
+    font-size: 5vw;
+    font-family: 'Open Sans', sans-serif;
+    }
+
+#main {
+    margin:0 auto;
+    border: 2px;
+    border-color:gray;
+    border-radius: 20px;
+    border-style:solid;
+    padding: 30px;
+    width: 60vw;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+    }
+
+p {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 40px;
+    font-size: 24px;
+}
+
+.sub-heading {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    font-size: 48px;
+}
+#more-about-elon-musk {
+    font-size: 35px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+#tribute-link{
+    color: rgb(0, 58, 231);
+}
+#tribute-link:hover{
+    color: rgb(12, 17, 26);
+}
